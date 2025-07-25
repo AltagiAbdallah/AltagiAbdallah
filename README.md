@@ -8,18 +8,19 @@
 
 <br/>
 
-<div align="center">
-  🎓 Currently a **Computer Science student** at Albukhary International University (AIU)<br>
-  🌍 Originally from **Sudan 🇸🇩**, currently based in **Malaysia 🇲🇾**<br>
-  🔭 Serving as **Vice President of the Sudanese Students Community @ AIU**<br>
-  ✨ Actively involved in using tech and AI to support **education, health, and community development**<br>
-  👨‍🎨 Also a **Media and Graphic Designer** with experience in organizing community campaigns and events<br>
-  💡 Passionate about building **AI-powered tools that solve real-world problems**<br>
-  🧠 Working on projects in **ML, web apps, and healthcare prediction systems** (like lung cancer classification and accident analysis)<br>
-  🌱 Currently learning **full-stack development, data analysis, Flask, and SVM for image classification**<br>
-  🤝 Open to collaboration on **AI for Social Good, student platforms, and awareness tools**
-  <br>
-  ⚡ Fun fact **I'm also a contributor to 'My Net-Zero Diary', focusing on sustainable living and youth climate action!**
+<div align="left">
+  <ul>
+    <li>🎓 Currently a <strong>Computer Science student</strong> at Albukhary International University (AIU)</li>
+    <li>🌍 Originally from <strong>Sudan 🇸🇩</strong>, currently based in <strong>Malaysia 🇲🇾</strong></li>
+    <li>🔭 Serving as <strong>Vice President of the Sudanese Students Community @ AIU</strong></li>
+    <li>✨ Actively involved in using tech and AI to support <strong>education, health, and community development</strong></li>
+    <li>👨‍🎨 Also a <strong>Media and Graphic Designer</strong> with experience in organizing community campaigns and events</li>
+    <li>💡 Passionate about building <strong>AI-powered tools that solve real-world problems</strong></li>
+    <li>🧠 Working on projects in <strong>ML, web apps, and healthcare prediction systems</strong> (like lung cancer classification and accident analysis)</li>
+    <li>🌱 Currently learning <strong>full-stack development, data analysis, Flask, and SVM for image classification</strong></li>
+    <li>🤝 Open to collaboration on <strong>AI for Social Good, student platforms, and awareness tools</strong></li>
+    <li>⚡ Fun fact: I'm also a contributor to <strong>'My Net-Zero Diary'</strong>, focusing on sustainable living and youth climate action!</li>
+  </ul>
 </div>
  
 <div align="center"> 
@@ -48,38 +49,27 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>📌 My Notable Contributions & Projects 📌</h2>
-  <br>
-  <p align="left">
-    🧠 **Lung Cancer Detection using SVM** — Image classifier to detect Benign, Malignant, or Normal CT scans using Python, Colab, and OpenCV<br>
-    🚦 **Traffic Accident Prediction System** — Analyzed factors like weather, road type, and alcohol influence to predict accident severity<br>
-    🌐 **Pharmacy Info Web App** — Flask-based app that helps users reach pharmacists and learn about medical equipment<br>
-    🎨 **Media Lead** for AIU Sudanese Students and Hult Prize events — posters, videos, campaigns<br>
-    🎓 **Educational Research** on mobile phone distractions, SDG 4, and global education challenges<br>
-    💬 **Event Organizer & Host** for national celebrations and tech awareness programs
-  </p>
+<h2 align="center">📌 My Notable Contributions & Projects 📌</h2>
+<br>
+<div align="left">
+  <ul>
+    <li>🧠 <strong>Lung Cancer Detection using SVM</strong> — Image classifier to detect Benign, Malignant, or Normal CT scans using Python, Colab, and OpenCV</li>
+    <li>🚦 <strong>Traffic Accident Prediction System</strong> — Analyzed factors like weather, road type, and alcohol influence to predict accident severity</li>
+    <li>🌐 <strong>Pharmacy Info Web App</strong> — Flask-based app that helps users reach pharmacists and learn about medical equipment</li>
+    <li>🎨 <strong>Media Lead</strong> for AIU Sudanese Students and Hult Prize events — posters, videos, campaigns</li>
+    <li>🎓 <strong>Educational Research</strong> on mobile phone distractions, SDG 4, and global education challenges</li>
+    <li>💬 <strong>Event Organizer & Host</strong> for national celebrations and tech awareness programs</li>
+  </ul>
 </div>
 
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AltagiAbdallah/AltagiAbdallah/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ My GitHub Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=AltagiAbdallah&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AltagiAbdallah&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltagiAbdallah&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AltagiAbdallah&show_icons=true&theme=dark&border_radius=10" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltagiAbdallah&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&hide=HTML&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/><br/>
