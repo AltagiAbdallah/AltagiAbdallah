@@ -1,71 +1,80 @@
-# 👋 Hey there, I'm Altagi Abdallah Bakheit Abdelgadir
+<div align="center">
+  <img height="120" src="YOUR_IMAGE_PATH_OR_URL_HERE" alt="Professional Banner/Icon" />
+</div>
 
-🎓 CS Student @ AIU ➼ On the Path to Data Scientist & AI-Powered Business Analyst  
-🔬 Researcher (ML for Real-World Impact) | 🎖️ VP @ Sudanese Students | 🎯 Media Lead @ Sudanese Community Malaysia | 🌍 Member @ SRENA_AIU  
+###
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/altagi-abdallah"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" /></a>
+</div>
 
-## 🌟 About Me
+###
 
-I’m Altagi Abdallah, a Computer Science student at Albukhary International University, currently on the path to becoming a **Data Scientist** and **AI-Powered Business Analyst**.
+<h1 align="center">Hey there 👋, I'm Altagi Abdallah</h1>
 
-🔍 I’m passionate about using **data science**, **machine learning**, and **artificial intelligence** to drive real-world solutions—especially in research and socially impactful projects.
+###
 
-🧠 I believe learning is a lifelong journey. Whether it’s through building models, analyzing patterns, or collaborating on humanitarian initiatives, every experience is a chance to grow.
+<h3 align="left">👨‍💻 About Me</h3>
 
-🌍 My mission is to bridge the gap between **technical knowledge** and **community empowerment**, creating value that uplifts both individuals and systems.
+<p align="left">
+  🎓 Computer Science student at Albukhary International University (AIU)<br>
+  🌍 From Sudan 🇸🇩, based in Malaysia 🇲🇾<br><br>
+  🔭 Currently serving as Vice President of the Sudanese Students Community @ AIU<br>
+  ✨ Actively involved in using tech and AI to support education, health, and community development<br>
+  👨‍🎨 Media and Graphic Designer with experience in organizing community campaigns and events<br>
+  💡 Passionate about building AI-powered tools that solve real-world problems<br>
+  🧠 Working on projects in ML, web apps, and healthcare prediction systems (lung cancer classifier, accident analysis)<br>
+  🌱 Currently learning full-stack development, data analysis, Flask, and SVM for image classification<br>
+  🤝 Open to collaboration on AI for Social Good, student platforms, and awareness tools
+</p>
 
----
+###
 
-## 💼 Roles & Involvements
+<h3 align="left">🛠️ Languages, Tools & Technologies</h3>
 
-- 🔷 **Vice President** @ Sudanese Students Community – AIU  
-- 🔷 **Media Lead** @ Sudanese Community in Malaysia  
-- 🔷 **Head of Media & Marketing Strategies** @ SRENA_AIU  
-- 🔷 **Researcher & Data Analyst** @ *War Economies Research Project*  
-- 🔷 **Former Intern** @ *Tirhal for Business and Technology*  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img width="12" />
 
----
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="40" alt="excel" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="power-bi" />
 
-## 🚀 Projects & Research
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" />
+</div>
 
-- 🧬 **Lung Cancer Classification** – Image-based SVM classifier (Benign, Malignant, Normal)
-- 🚧 **AI Traffic Accident Prediction** – Smart analysis using road, driver & environment data
-- 💊 **PharmaConnect** – Flask web app to connect pharmacists with patients
-- 📚 **University Course Management System** – With smart scheduling and analytics
-- 🎓 **SDG 4: Sudan Education Report** – Researching 10-year progress and gaps
-- 📱 **Digital Dilemma Study** – Investigating mobile phone use and student productivity
+###
 
----
+<h3 align="left">📌 Notable Contributions & Projects</h3>
 
-## 🛠️ Skills Snapshot
+- 🧠 **Lung Cancer Detection using SVM** — Image classifier to detect Benign, Malignant, or Normal CT scans using Python, Colab, and OpenCV  
+- 🚦 **Traffic Accident Prediction System** — Analyzed factors like weather, road type, and alcohol influence to predict accident severity  
+- 🌐 **Pharmacy Info Web App** — Flask-based app that helps users reach pharmacists and learn about medical equipment  
+- 🎨 **Media Lead** for AIU Sudanese Students and Hult Prize events — posters, videos, campaigns  
+- 🎓 **Educational Research** on mobile phone distractions, SDG 4, and global education challenges  
+- 💬 **Event Organizer & Host** for national celebrations and tech awareness programs  
+- 🌱 **My Net-Zero Diary** contributor — focusing on sustainable living and youth action on climate change
 
-**Languages**: Python, Java, SQL, HTML, CSS  
-**Frameworks/Tools**: Flask, FPDF, MySQL, Canva, Google Colab  
-**Soft Skills**: Leadership, Communication, Research, Strategic Media, Public Speaking  
+###
 
----
-
-## 📌 Interests
-
-📊 Data & AI | 💻 Research | 🎨 Media Strategy | 🌍 Social Impact | 📈 Growth & Innovation  
-
----
-
-## 🌐 Languages
-
-- 🇸🇩 Arabic (Native)  
-- 🇬🇧 English (B2 Listening/Reading, C1 Writing)
-
----
-
-## 📫 Let's Connect
-
-📧 altagi.abdelgadir@student.aiu.edu.my  
-📱 +60 11-3918 9384  
-🌍 Based in Alor Setar, Malaysia  
-🎓 GitHub: `@altagi-abdelgadir`
-
----
-
-> “Innovation, impact, and community — that’s what drives me.”
+<h3 align="center">🌟 Let's Connect and Build Something Meaningful Together!</h3>
