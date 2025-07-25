@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="120" src="YOUR_IMAGE_PATH_OR_URL_HERE" alt="Professional Banner/Icon" />
+  <img height="120" src="czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkxMC1hZXctMDAxLmpwZw.jpg" alt="Professional Banner/Icon" />
 </div>
 
 ###
