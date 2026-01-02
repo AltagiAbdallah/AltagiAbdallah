@@ -24,15 +24,38 @@ Aspiring Data Analyst | CRM Analysis | SQL • Python • Excel • Power BI | C
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I’m **Altagi Abdallah**, a Computer Science student at **Albukhary International University**, with a strong interest in **data science, machine learning, and AI-driven decision-making**.
-
-I have hands-on experience working with **Python, SQL, machine learning, and data visualization**, developing **predictive models, analytical solutions, and dashboards** that support data-driven strategy. I am particularly passionate about applying data science and AI to **research-driven and socially impactful projects**.
-
-🎯 **Currently seeking a 6-month Data Science / Data Analytics internship starting March 2026**, where I can apply my technical skills and contribute to measurable organizational impact.
-
-I strongly believe in **lifelong learning**—whether through building models, analyzing complex datasets, or collaborating on humanitarian and research initiatives.
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <img 
+        src="https://raw.githubusercontent.com/AltagiAbdallah/AltagiAbdallah/f9e730fb81bdc0c249d78097ec619000a0bdda41/Profile%20image.jpg" 
+        width="260" 
+        style="border-radius:20px; box-shadow:0 8px 25px rgba(0,0,0,0.3); border:2px solid #00ADB5;" 
+        alt="Altagi Abdallah"
+      />
+    </td>
+    <td width="65%" valign="middle">
+      <p>
+        I’m <strong>Altagi Abdallah</strong>, a Computer Science student at <strong>Albukhary International University</strong>, 
+        with a strong interest in <strong>data science, machine learning, and AI-driven decision-making</strong>.
+      </p>
+      <p>
+        I have hands-on experience working with <strong>Python, SQL, machine learning, and data visualization</strong>, 
+        developing <strong>predictive models, analytical solutions, and dashboards</strong> that support data-driven strategy. 
+        I am particularly passionate about applying data science and AI to <strong>research-driven and socially impactful projects</strong>.
+      </p>
+      <p>
+        🎯 <strong>Currently seeking a 6-month Data Science / Data Analytics internship starting March 2026</strong>, 
+        where I can apply my technical skills and contribute to measurable organizational impact.
+      </p>
+      <p>
+        I strongly believe in <strong>lifelong learning</strong>—whether through building models, analyzing complex datasets, or collaborating on humanitarian and research initiatives.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -62,29 +85,14 @@ I strongly believe in **lifelong learning**—whether through building models, a
 
 ## 📌 Selected Projects & Contributions
 
-- 📊 **Credit Scoring Model**  
-  Predicting creditworthiness using Logistic Regression, Decision Trees, and Random Forest.
-
-- 🏠 **Housing Price Prediction & Market Segmentation**  
-  Random Forest Regression for price forecasting and K-Means clustering to identify market segments.
-
-- ❤️ **Heart Disease Prediction**  
-  Classification models applied to medical datasets to predict heart disease risk.
-
-- 🧠 **Lung Cancer Detection (SVM)**  
-  Image classification of CT scans (Benign, Malignant, Normal) using Python, OpenCV, and Google Colab.
-
-- 🚦 **Traffic Accident Severity Prediction**  
-  Analysis of weather, road conditions, and alcohol influence on accident severity.
-
-- 🌐 **Pharmacy Information Web App**  
-  Flask-based web application connecting users with pharmacists and medical equipment info.
-
-- 🎨 **Media & Communication Lead**  
-  Posters, videos, and campaigns for AIU Sudanese Students & Hult Prize events.
-
-- 🎓 **Educational Research**  
-  Research on mobile phone distraction, SDG 4, and global education challenges.
+- 📊 **Credit Scoring Model** — Predicting creditworthiness using Logistic Regression, Decision Trees, and Random Forest.  
+- 🏠 **Housing Price Prediction & Market Segmentation** — Random Forest Regression for price forecasting and K-Means clustering to identify market segments.  
+- ❤️ **Heart Disease Prediction** — Classification models applied to medical datasets to predict heart disease risk.  
+- 🧠 **Lung Cancer Detection (SVM)** — Image classification of CT scans (Benign, Malignant, Normal) using Python, OpenCV, and Google Colab.  
+- 🚦 **Traffic Accident Severity Prediction** — Analysis of weather, road conditions, and alcohol influence on accident severity.  
+- 🌐 **Pharmacy Information Web App** — Flask-based web application connecting users with pharmacists and medical equipment info.  
+- 🎨 **Media & Communication Lead** — Posters, videos, and campaigns for AIU Sudanese Students & Hult Prize events.  
+- 🎓 **Educational Research** — Research on mobile phone distraction, SDG 4, and global education challenges.  
 
 ---
 
@@ -94,21 +102,12 @@ I strongly believe in **lifelong learning**—whether through building models, a
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<div align="center">
-  <a href="mailto:altagi.abdelgadir@student.aiu.edu.my">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/altagi-abdallah">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
-
-<br/>
+<p align="center">
+I’m always open to collaborating on **data-driven projects**, sharing insights, or discussing research and analytics opportunities. Feel free to reach out via email!
+</p>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&height=60&duration=4000&lines=Thanks+for+stopping+by!;Let’s+collaborate+on+meaningful,+data-driven+projects." />
 </h2>
-
-
