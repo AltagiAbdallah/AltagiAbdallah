@@ -47,7 +47,7 @@ Aspiring Data Analyst | CRM Analysis | SQL • Python • Excel • Power BI | C
         I am particularly passionate about applying data science and AI to <strong>research-driven and socially impactful projects</strong>.
       </p>
       <p>
-        🎯 <strong>Currently seeking a 6-month Data Science / Data Analytics internship starting March 2026</strong>, 
+         <strong>Currently seeking a 6-month Data Science / Data Analytics internship starting March 2026</strong>, 
         where I can apply my technical skills and contribute to measurable organizational impact.
       </p>
       <p>
@@ -59,7 +59,7 @@ Aspiring Data Analyst | CRM Analysis | SQL • Python • Excel • Power BI | C
 
 ---
 
-## 💼 Leadership & Professional Experience
+## Leadership & Professional Experience
 
 - 🔷 **Vice President** — Sudanese Student Community @ AIU  
 - 🔷 **Media Lead** — Sudanese Community in Malaysia  
@@ -69,7 +69,7 @@ Aspiring Data Analyst | CRM Analysis | SQL • Python • Excel • Power BI | C
 
 ---
 
-## 🛠️ Languages, Frameworks & Data Tools
+##  Languages, Frameworks & Data Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,flask,mysql,git,github,vscode" /><br><br>
@@ -83,16 +83,16 @@ Aspiring Data Analyst | CRM Analysis | SQL • Python • Excel • Power BI | C
 
 ---
 
-## 📌 Selected Projects & Contributions
+##  Selected Projects & Contributions
 
-- 📊 **Credit Scoring Model** — Predicting creditworthiness using Logistic Regression, Decision Trees, and Random Forest.  
-- 🏠 **Housing Price Prediction & Market Segmentation** — Random Forest Regression for price forecasting and K-Means clustering to identify market segments.  
-- ❤️ **Heart Disease Prediction** — Classification models applied to medical datasets to predict heart disease risk.  
-- 🧠 **Lung Cancer Detection (SVM)** — Image classification of CT scans (Benign, Malignant, Normal) using Python, OpenCV, and Google Colab.  
-- 🚦 **Traffic Accident Severity Prediction** — Analysis of weather, road conditions, and alcohol influence on accident severity.  
-- 🌐 **Pharmacy Information Web App** — Flask-based web application connecting users with pharmacists and medical equipment info.  
-- 🎨 **Media & Communication Lead** — Posters, videos, and campaigns for AIU Sudanese Students & Hult Prize events.  
-- 🎓 **Educational Research** — Research on mobile phone distraction, SDG 4, and global education challenges.  
+-  **Credit Scoring Model** — Predicting creditworthiness using Logistic Regression, Decision Trees, and Random Forest.  
+-  **Housing Price Prediction & Market Segmentation** — Random Forest Regression for price forecasting and K-Means clustering to identify market segments.  
+-  **Heart Disease Prediction** — Classification models applied to medical datasets to predict heart disease risk.  
+-  **Lung Cancer Detection (SVM)** — Image classification of CT scans (Benign, Malignant, Normal) using Python, OpenCV, and Google Colab.  
+-  **Traffic Accident Severity Prediction** — Analysis of weather, road conditions, and alcohol influence on accident severity.  
+-  **Pharmacy Information Web App** — Flask-based web application connecting users with pharmacists and medical equipment info.  
+-  **Media & Communication Lead** — Posters, videos, and campaigns for AIU Sudanese Students & Hult Prize events.  
+-  **Educational Research** — Research on mobile phone distraction, SDG 4, and global education challenges.  
 
 ---
 
